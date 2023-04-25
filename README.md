@@ -1,1 +1,1 @@
-main readme for repo
+readme for this directory
